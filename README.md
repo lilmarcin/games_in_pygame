@@ -33,8 +33,6 @@ Balls entering individual compartments under the board create a histogram resemb
 - file `galton_board_edit.py` uses own gravity and collisions to create space
 
 - Example Video
-![Galton_board](/images/galton_board_pymunk_0.png)
-![Galton_board](/images/galton_board_pymunk_1.png)
 ![Galton_board](/images/galton_board_pymunk.gif)
 
 ## Usage
