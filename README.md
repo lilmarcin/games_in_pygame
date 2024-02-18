@@ -36,8 +36,14 @@ Balls entering individual compartments under the board create a histogram resemb
 ![Galton_board](/images/galton_board_pymunk.gif)
 
 ## Usage
-Provide instructions on how to run each project, including any necessary dependencies.
-
+Run each project via command
+```bash
+python -u path_to_file.py
+```
+e.g.
+```bash
+python -u galton_board.py
+```
 
 ## License
 
